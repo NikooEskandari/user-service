@@ -1,0 +1,8 @@
+.row {
+    margin-top: 2vh;
+    margin-left: 2vw;
+}
+
+.active-user-div, .inactive-user-div {
+    margin-bottom: 0.5vh;
+}

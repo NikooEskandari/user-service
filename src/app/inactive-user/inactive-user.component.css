@@ -1,0 +1,9 @@
+.user-info {
+    border: 1px dotted grey;
+    border-radius: 5px;
+    padding-left: 0.5vw;
+}
+
+.link-span {
+    color: blue;
+}
